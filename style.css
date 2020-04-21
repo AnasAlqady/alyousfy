@@ -1,0 +1,8 @@
+body .jabal p {
+font-size: 4.7rem;
+    opacity: .5;
+}
+body .jabal p:hover {
+    font-size: 6rem;
+    opacity: 1;
+}
